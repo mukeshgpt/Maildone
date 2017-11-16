@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/aopalliance.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.aop-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.asm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.aspects-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.context.support-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.expression-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.instrument.tomcat-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.instrument-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.jdbc-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.jms-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.orm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.oxm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.test-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.transaction-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.web.portlet-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.web.servlet-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.web.struts-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/Sprinng 3.0/Jars/org.springframework.web-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/JavaMail/activation.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/JavaMail/dsn.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/JavaMail/imap.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/JavaMail/mail.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/JavaMail/mailapi.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/JavaMail/pop3.jar"/>
+	<classpathentry kind="lib" path="F:/student dvd/Student DVD/JavaMail/smtp.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
